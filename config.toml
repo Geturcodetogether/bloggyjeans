@@ -45,7 +45,7 @@ path_language_resources = "i18n/"
 generator = "Zola v0.19.2"
 
 # Favicon as SVG graphics
-favicon_svg = "/img/yin-yang.svg"
+favicon_svg = "/img/blobs_filled (1).svg"
 
 # The copyright notice
 copyright = "Copyright {year} by Thomas Weitzel"

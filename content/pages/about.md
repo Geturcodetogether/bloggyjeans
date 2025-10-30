@@ -3,11 +3,11 @@ date = 2019-03-11
 title = "关于这个网站"
 description = "Who I am and what this site is all about"
 template = "page.html"
-authors = ["Thomas Weitzel"]
+authors = ["Mandy"]
 +++
 
 ## Who am I?
-My name is **Thomas Weitzel**.
+我的名字是 **Mandy**.
 When people have trouble pronouncing my last name, I suggest to try _White Cell_.
 If you want to call me by my nickname, that's fine, too.
 It is **Thomy**, pronounced like _Tommy_.

@@ -1,6 +1,6 @@
 # Global settings
-settings_locale = "zh"
-settings_date_locale = "zh_CN"
+settings_locale = "en"
+settings_date_locale = "en_US"
 settings_date_format = "%Y年%m月%d日"
 
 # Simple language resources

@@ -14,7 +14,7 @@ aria_to_homepage = "返回首页"
 aria_menu = "菜单"
 with_tag = "标签"
 not_found_header = "页面未找到"
-not_found_text = "哎呀！您访问的页面不见了。可能它去度假了？但我没有，请检查 URL，或者联系我，我会试着帮你找回它。"
+not_found_text = "哎呀！你点的菜还在锅里呢。请检查 URL，或者您去催催后厨？我想Mandy应该有办法。"
 
 # Nouns with singular and plural
 [words]

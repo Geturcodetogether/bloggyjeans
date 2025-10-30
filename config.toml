@@ -5,13 +5,13 @@ base_url = "https://www.chic-yeast.com"
 compile_sass = false
 
 # The default language ("de" also included in i18n directory)
-default_language = "en"
+default_language = "zh"
 
 # The site theme to use
 # theme = "Mandy的博客"
 
 # When set to "true", a search index is built from the pages and section content for `default_language`
-build_search_index = false
+build_search_index = true
 
 # When set to "true", a feed is automatically generated
 generate_feeds = true

@@ -8,7 +8,7 @@ compile_sass = false
 default_language = "en"
 
 # The site theme to use
-# theme = "zolarwind"
+# theme = "Mandy的博客"
 
 # When set to "true", a search index is built from the pages and section content for `default_language`
 build_search_index = false

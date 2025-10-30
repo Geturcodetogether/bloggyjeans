@@ -1,6 +1,6 @@
 +++
 date = 2019-03-11
-title = "About"
+title = "关于这个网站"
 description = "Who I am and what this site is all about"
 template = "page.html"
 authors = ["Thomas Weitzel"]

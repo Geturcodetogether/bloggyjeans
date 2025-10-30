@@ -58,7 +58,7 @@ quote = { text = "Reality is an acquired taste" }
 
 # The main navigation menu
 menu_pages = [
-    { title = "灵感",              url = "/pages/imprint/" },
+    { title = "主页",              url = "/pages/_index/" },
     { title = "关于我和我的博客",                url = "/pages/about/"   },
 ]
 

@@ -18,9 +18,7 @@ authors = ["Mandy"]
 
 
       
-You are what you eat. 这不仅仅在说食物，我们每天摄入的信息同样也塑造着我们的大脑和灵魂。  
-
-我的理想的互联网生活是，更多人有意识地把注意力从社交平台上转移出去，去订阅你所信赖的人创作或筛选过的内容，我不知道都会有什么，也许是书籍摘抄，工具推荐，生活分享，但肯定不是利益相关的商业化营销内容。一种柔软的扑面而来的“活人”气息。这是我在看 [Owen](https://www.owenyoung.com/) 和[海涛](www.haitao.wiki)的博客的想法。  
+You are what you eat. 这不仅仅在说食物，我们每天摄入的信息同样也塑造着我们的大脑和灵魂。我的理想的互联网生活是，更多人有意识地把注意力从社交平台上转移出去，去订阅你所信赖的人创作或筛选过的内容，我不知道都会有什么，也许是书籍摘抄，工具推荐，生活分享，但肯定不是利益相关的商业化营销内容。一种柔软的扑面而来的“活人”气息。这是我在看 [Owen](https://www.owenyoung.com/) 和[海涛](www.haitao.wiki)的博客的想法。  
 
 
 
@@ -39,7 +37,7 @@ You are what you eat. 这不仅仅在说食物，我们每天摄入的信息同�
 我的博客全部内容托管在我的[Github 账号的 Repo 里](https://github.com/Geturcodetogether/bloggyjeans)，用[Zola (getzola.org)](https://www.getzola.org/)生成，最终部署在[Cloudflare Pages](https://pages.cloudflare.com/)上。
 感谢 Thomas 提供的 Zola 模板，这是应他要求附上的 [Notice](https://www.chic-yeast.com/pages/imprint/)。学习编程和建站的过程很有意思，如果你也想要做一个自己的独立博客，我很愿意手把手教你，完成我的费曼学习法的最后一步！  
 
-
+<br><br>
 
       
 去成为一颗可被观测到的行星！🌟

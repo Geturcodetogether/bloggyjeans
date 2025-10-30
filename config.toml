@@ -45,10 +45,10 @@ path_language_resources = "i18n/"
 generator = "Zola v0.19.2"
 
 # Favicon as SVG graphics
-favicon_svg = "/img/xbox-y.svg"
+favicon_svg = "/img/xbox-y.svg" 
 
 # The copyright notice
-copyright = "Copyright {2025} by Mandy Yan"
+copyright = "Copyright {year} by Mandy Yan"
 
 # The description shown on banner
 site_description = "My findings while exploring various aspects of programming"
@@ -58,8 +58,8 @@ quote = { text = "Reality is an acquired taste" }
 
 # The main navigation menu
 menu_pages = [
-    { title = "闪念",              url = "/pages/imprint/" },
-    { title = "项目跟踪",                url = "/pages/about/"   },
+    { title = "Imprint",              url = "/pages/imprint/" },
+    { title = "About",                url = "/pages/about/"   },
 ]
 
 # The pages that appear in the footer

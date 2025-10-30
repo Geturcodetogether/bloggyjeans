@@ -1,1 +1,35 @@
+# Global settings
+settings_locale = "zh"
+settings_date_locale = "zh_CN"
+settings_date_format = "%Y年%m月%d日"
+
+# Simple language resources
+empty_page_title = "标题为空"
+empty_page_description = "描述为空"
+read_more = "阅读全文"
+previous_posts = "上一篇文章"
+next_posts = "下一篇文章"
+reading_time = "阅读时间"
+aria_to_homepage = "返回首页"
+aria_menu = "菜单"
+with_tag = "标签"
+not_found_header = "页面未找到"
+not_found_text = "哎呀！您访问的页面不见了。可能它去度假了？但我没有，请检查 URL，或者联系我，我会试着帮你找回它。"
+
+# Nouns with singular and plural
+[words]
+one = "字"
+other = "字"
+
+[minutes]
+one = "分钟"
+other = "分钟"
+
+[posts]
+one = "篇文章"
+other = "篇文章"
+
+[tags]
+one = "标签"
+other = "标签"
 

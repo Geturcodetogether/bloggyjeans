@@ -45,7 +45,7 @@ path_language_resources = "i18n/"
 generator = "Zola v0.19.2"
 
 # Favicon as SVG graphics
-favicon_svg = "/img/blobs_filled (1).svg"
+favicon_svg = "/img/xbox-y.svg"
 
 # The copyright notice
 copyright = "Copyright {2025} by Mandy Yan"

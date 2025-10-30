@@ -1,34 +1,34 @@
 # Global settings
-settings_locale = "en"
-settings_date_locale = "en_US"
-settings_date_format = "%B %d, %Y"
+settings_locale = "zh"
+settings_date_locale = "zh_CN"
+settings_date_format = "%Y年%m月%d日"
 
 # Simple language resources
-empty_page_title = "Empty title"
-empty_page_description = "Empty description"
-read_more = "Read more"
-previous_posts = "Previous posts"
-next_posts = "Next posts"
-reading_time = "reading time"
-aria_to_homepage = "Go to homepage"
-aria_menu = "Menu"
-with_tag = "with tag"
-not_found_header = "The page you requested could not be found."
-not_found_text = "Oops! Seems like this page vanished into the internet abyss. Maybe it's on vacation? Please check the URL or ping me, and I'll see if I can locate it, or at least send out a search party."
+empty_page_title = "标题为空"
+empty_page_description = "描述为空"
+read_more = "阅读全文"
+previous_posts = "上一篇文章"
+next_posts = "下一篇文章"
+reading_time = "阅读时间"
+aria_to_homepage = "返回首页"
+aria_menu = "菜单"
+with_tag = "标签"
+not_found_header = "页面未找到"
+not_found_text = "哎呀！您访问的页面不见了。可能它去度假了？但我没有，请检查 URL，或者联系我，我会试着帮你找回它。"
 
 # Nouns with singular and plural
 [words]
-one = "word"
-other = "words"
+one = "字"
+other = "字"
 
 [minutes]
-one = "minute"
-other = "minutes"
+one = "分钟"
+other = "分钟"
 
 [posts]
-one = "post"
-other = "posts"
+one = "篇文章"
+other = "篇文章"
 
 [tags]
-one = "tag"
-other = "tags"
+one = "标签"
+other = "标签"

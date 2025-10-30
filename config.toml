@@ -51,10 +51,10 @@ favicon_svg = "/img/blobs_filled (1).svg"
 copyright = "Copyright {year} by Mandy Yan"
 
 # The description shown on banner
-site_description = "My findings while exploring various aspects of programming"
+site_description = "你好，这里是Mandy的外接大脑，她正在学习简单编程，这儿的一切都有待开发，但还是很高兴你能常来看看！"
 
 # The quote shown on banner
-quote = { text = "Do, or not do. There is no try.", author = "Yoda" }
+quote = { text = "Reality is an acquired taste" }
 
 # The main navigation menu
 menu_pages = [

@@ -1,38 +1,19 @@
 +++
-date = 2019-03-11
-title = "关于这个网站"
+date = 2025-10-30
+title = "关于我和我的博客"
 description = "Who I am and what this site is all about"
 template = "page.html"
 authors = ["Mandy"]
 +++
 
-## Who am I?
-我的名字是 **Mandy**.
-When people have trouble pronouncing my last name, I suggest to try _White Cell_.
-If you want to call me by my nickname, that's fine, too.
-It is **Thomy**, pronounced like _Tommy_.
+我是 [Mandy](https://www.chic-yeast.com/pages/about/)，一个喜欢不务正业的人。为了记录我转瞬即逝的灵感，庆祝三分钟热度的收获，照见和世界交互时的内心感受，我打算更多地写作。我喜欢这种在非公共平台表达自己的感觉，这里不需要太多功能，让一切回归质朴和自然。用程序员的话说，明文纯文本是最通用的格式，不会被运营商锁定，在所有平台都能开箱即用的直接编辑。
 
-I work as an independent software developer since more than twenty years.
-Industries I've worked in include Finance, Health Care, Automotive, Military, and Government.
-Mostly I worked on internal projects, but also some software products.
-My mother tongue is German.
+You are what you eat. 这不仅仅在说食物，我们每天摄入的信息同样也塑造着我们的大脑和灵魂。我的理想的互联网生活是，更多人有意识地把注意力从社交平台上转移出去，去订阅你所信赖的人创作或筛选过的内容，我不知道都会有什么，也许是书籍摘抄，工具推荐，生活分享，但肯定不是利益相关的商业化营销内容。一种柔软的扑面而来的“活人”气息。这是我在看 [Owen](https://www.owenyoung.com/) 和[海涛](www.haitao.wiki)的博客的想法。
 
-## What's the topic?
-This blog covers my findings while exploring various aspects of programming in general, with a special focus on functional programming.
+再说了，有一个自己的网站真的好酷啊！
 
-## The motivation?
-Why do people climb mountains?
-British mountaineer George Mallory famously answered: *Because they're there*.
-They want to reach the top faster, in a more efficient or elegant way, differently than anybody else, or even at all.
-That's how you approach problem-solving in programming.
+我像一个想要圣诞礼物的小孩一样，想要自己的网站。I want it and I have it!
 
-## What to expect
-Since I'm coming from an object-oriented background, expect all sorts of problems I'm stumbling into and then getting out of.
-C, C++, and Java were my first professionally used programming languages.
-Later I switched to Scala, and even later to Kotlin.
-I had, and still have, a lot to learn, even more to unlearn, and I'm not nearly done yet.
-If you're having a similar background, maybe you can get something out of my mistakes and the occasional success.
+我的博客全部内容托管在我的[Github 的 Repo 里](https://github.com/Geturcodetogether/bloggyjeans)，用[Zola (getzola.org)](https://www.getzola.org/)生成，最终部署在[Cloudflare Pages](https://pages.cloudflare.com/)上。感谢 Thomas 提供的 Zola 模板，这是应他要求附上的 [Notice](https://www.chic-yeast.com/pages/imprint/)。学习编程和建站的过程很有意思，如果你也想要做一个自己的独立博客，我很愿意手把手教你，完成我的费曼学习法的最后一步！
 
-## _Do, or not do. There is no try_. &ndash; Yoda
-The decision is not between doing something or not.
-It's that *trying* is something more than just any attempt.
+去成为一颗可被观测到的行星！

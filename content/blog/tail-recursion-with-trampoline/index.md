@@ -1,10 +1,10 @@
 +++
-date = 2019-03-16
-title = "Tail Recursion with Trampoline"
-description = "Node.js does not support tail call optimization, but a trampoline has the same effect."
-authors = ["Thomas Weitzel"]
+date = 2025-11-04
+title = "一些感悟"
+description = "这是一个测试"
+authors = ["Mandy"]
 [taxonomies]
-tags = ["javascript"]
+tags = ["Fun"]
 [extra]
 math = true
 image = "banner.jpg"

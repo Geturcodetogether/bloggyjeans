@@ -1,8 +1,8 @@
 +++
-date = 2023-09-26
-title = "Diagrams with Mermaid"
-description = "Discover Mermaid's Markdown-inspired syntax to craft diverse diagrams using simple text in your blog posts. Learn how to integrate and customize Mermaid diagrams."
-authors = ["Thomas Weitzel"]
+date = 2025-11-04
+title = "2025年的万圣节"
+description = "今年的万圣节发生了什么"
+authors = ["Mandy"]
 [taxonomies]
 tags = ["diagram"]
 [extra]
@@ -11,16 +11,9 @@ diagram = true
 image = "banner.jpg"
 +++
 
-## What are Mermaid diagrams
+## 上海的万圣节越来越无聊了！
 
-[Mermaid](https://mermaid.js.org) is a syntax similar to Markdown where you can use text to describe and automatically generate diagrams.
-With Mermaid, you can generate
-[Flow charts](https://mermaid.js.org/syntax/flowchart.html),
-[UML diagrams](https://mermaid.js.org/syntax/classDiagram.html),
-[Pie charts](https://mermaid.js.org/syntax/pie.html),
-[Gantt diagrams](https://mermaid.js.org/syntax/gantt.html),
-[Entity Relationship diagrams](https://mermaid.js.org/syntax/entityRelationshipDiagram.html),
-and more.
+准备万圣节的过程比万圣节本人更有意思
 
 ## An Entity Relationship diagram example
 

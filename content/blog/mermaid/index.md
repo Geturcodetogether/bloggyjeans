@@ -4,7 +4,7 @@ title = "2025年的万圣节"
 description = "今年的万圣节发生了什么"
 authors = ["Mandy"]
 [taxonomies]
-tags = ["diagram"]
+tags = ["Fun"]
 [extra]
 math = false
 diagram = true
@@ -13,32 +13,12 @@ image = "banner.jpg"
 
 ## 上海的万圣节越来越无聊了！
 
+```javascript
 准备万圣节的过程比万圣节本人更有意思
+```
 
 ## An Entity Relationship diagram example
 
-{% diagram(init="{'theme': 'forest'}") %}
-erDiagram
-    CUSTOMER ||--o{ ORDER : places
-    ORDER ||--|{ LINEITEM : contains
-    PRODUCT ||--o{ LINEITEM : is_listed_in
-    CUSTOMER {
-        string Name
-        string Email
-        string Address
-    }
-    PRODUCT {
-        string ProductName
-        float Price
-    }
-    ORDER {
-        date DateOrdered
-        string Status
-    }
-    LINEITEM {
-        int Quantity
-    }
-{% end %}
 
 ## Using Mermaid in your blog post
 

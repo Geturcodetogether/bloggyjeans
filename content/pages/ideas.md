@@ -1,6 +1,6 @@
 +++
 date = 2025-10-30
-title = "灵感"title = "灵感"
+title = "灵感"
 description = "短想法"
 template = "page.html"
 authors = ["Mandy"]

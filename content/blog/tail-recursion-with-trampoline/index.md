@@ -1,12 +1,10 @@
 +++
-date = 2025-11-04
+date = 2025-11-11
 title = "一个新的副业想法"
 description = "持续更新"
 authors = ["Mandy"]
 [taxonomies]
 tags = ["Fun"]
-[extra]
-math = true
 image = "banner.jpg"
 +++
 
